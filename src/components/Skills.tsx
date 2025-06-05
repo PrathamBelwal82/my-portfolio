@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const skills = ["React", "Go", "Node.js", "Redis", "MongoDB", "Next.js", "Tailwind CSS", "Hugging Face", "Docker"];
 

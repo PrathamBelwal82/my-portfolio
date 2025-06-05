@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Navbar from './components/Navbar.tsx';
 import HeroSection from './components/HeroSection.tsx';
 import Projects from './components/Projects.tsx';
